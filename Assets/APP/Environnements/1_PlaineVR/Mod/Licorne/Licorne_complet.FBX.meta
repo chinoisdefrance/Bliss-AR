@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 0b2ad117a283b3240b1304864b6834e0
+timeCreated: 1471947152
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRigEYED
+    100002: CATRigEYEG
+    100004: CATRigHub001
+    100006: CATRigHub002
+    100008: CATRigHub003
+    100010: CATRigLLeg1
+    100012: CATRigLLeg1 1
+    100014: CATRigLLeg2
+    100016: CATRigLLeg2 1
+    100018: CATRigLLeg3
+    100020: CATRigLLeg3 1
+    100022: CATRigLLeg4
+    100024: CATRigLLeg4 1
+    100026: CATRigLLegPlatform
+    100028: CATRigLLegPlatform 1
+    100030: CATRigLLegUpVectorNode
+    100032: CATRigLLegUpVectorNode 1
+    100034: CATRigRLeg1
+    100036: CATRigRLeg1 1
+    100038: CATRigRLeg2
+    100040: CATRigRLeg2 1
+    100042: CATRigRLeg3
+    100044: CATRigRLeg3 1
+    100046: CATRigRLeg4
+    100048: CATRigRLeg4 1
+    100050: CATRigRLegPlatform
+    100052: CATRigRLegPlatform 1
+    100054: CATRigRLegUpVectorNode
+    100056: CATRigRLegUpVectorNode 1
+    100058: CATRigSpine1
+    100060: CATRigSpine1 1
+    100062: CATRigSpine2
+    100064: CATRigSpine2 1
+    100066: CATRigSpine3
+    100068: CATRigSpine3 1
+    100070: CATRigSpine4
+    100072: CATRigTail1
+    100074: CATRigTail2
+    100076: CATRigTail3
+    100078: CATRigTail4
+    100080: Character001
+    100082: Licorne
+    100084: //RootNode
+    100086: Licorne_LOD
+    400000: CATRigEYED
+    400002: CATRigEYEG
+    400004: CATRigHub001
+    400006: CATRigHub002
+    400008: CATRigHub003
+    400010: CATRigLLeg1
+    400012: CATRigLLeg1 1
+    400014: CATRigLLeg2
+    400016: CATRigLLeg2 1
+    400018: CATRigLLeg3
+    400020: CATRigLLeg3 1
+    400022: CATRigLLeg4
+    400024: CATRigLLeg4 1
+    400026: CATRigLLegPlatform
+    400028: CATRigLLegPlatform 1
+    400030: CATRigLLegUpVectorNode
+    400032: CATRigLLegUpVectorNode 1
+    400034: CATRigRLeg1
+    400036: CATRigRLeg1 1
+    400038: CATRigRLeg2
+    400040: CATRigRLeg2 1
+    400042: CATRigRLeg3
+    400044: CATRigRLeg3 1
+    400046: CATRigRLeg4
+    400048: CATRigRLeg4 1
+    400050: CATRigRLegPlatform
+    400052: CATRigRLegPlatform 1
+    400054: CATRigRLegUpVectorNode
+    400056: CATRigRLegUpVectorNode 1
+    400058: CATRigSpine1
+    400060: CATRigSpine1 1
+    400062: CATRigSpine2
+    400064: CATRigSpine2 1
+    400066: CATRigSpine3
+    400068: CATRigSpine3 1
+    400070: CATRigSpine4
+    400072: CATRigTail1
+    400074: CATRigTail2
+    400076: CATRigTail3
+    400078: CATRigTail4
+    400080: Character001
+    400082: Licorne
+    400084: //RootNode
+    400086: Licorne_LOD
+    2300000: CATRigEYED
+    2300002: CATRigEYEG
+    2300004: CATRigHub001
+    2300006: CATRigHub002
+    2300008: CATRigHub003
+    2300010: CATRigLLeg1
+    2300012: CATRigLLeg1 1
+    2300014: CATRigLLeg2
+    2300016: CATRigLLeg2 1
+    2300018: CATRigLLeg3
+    2300020: CATRigLLeg3 1
+    2300022: CATRigLLeg4
+    2300024: CATRigLLeg4 1
+    2300026: CATRigRLeg1
+    2300028: CATRigRLeg1 1
+    2300030: CATRigRLeg2
+    2300032: CATRigRLeg2 1
+    2300034: CATRigRLeg3
+    2300036: CATRigRLeg3 1
+    2300038: CATRigRLeg4
+    2300040: CATRigRLeg4 1
+    2300042: CATRigSpine1
+    2300044: CATRigSpine1 1
+    2300046: CATRigSpine2
+    2300048: CATRigSpine2 1
+    2300050: CATRigSpine3
+    2300052: CATRigSpine3 1
+    2300054: CATRigSpine4
+    2300056: CATRigTail1
+    2300058: CATRigTail2
+    2300060: CATRigTail3
+    2300062: CATRigTail4
+    3300000: CATRigEYED
+    3300002: CATRigEYEG
+    3300004: CATRigHub001
+    3300006: CATRigHub002
+    3300008: CATRigHub003
+    3300010: CATRigLLeg1
+    3300012: CATRigLLeg1 1
+    3300014: CATRigLLeg2
+    3300016: CATRigLLeg2 1
+    3300018: CATRigLLeg3
+    3300020: CATRigLLeg3 1
+    3300022: CATRigLLeg4
+    3300024: CATRigLLeg4 1
+    3300026: CATRigRLeg1
+    3300028: CATRigRLeg1 1
+    3300030: CATRigRLeg2
+    3300032: CATRigRLeg2 1
+    3300034: CATRigRLeg3
+    3300036: CATRigRLeg3 1
+    3300038: CATRigRLeg4
+    3300040: CATRigRLeg4 1
+    3300042: CATRigSpine1
+    3300044: CATRigSpine1 1
+    3300046: CATRigSpine2
+    3300048: CATRigSpine2 1
+    3300050: CATRigSpine3
+    3300052: CATRigSpine3 1
+    3300054: CATRigSpine4
+    3300056: CATRigTail1
+    3300058: CATRigTail2
+    3300060: CATRigTail3
+    3300062: CATRigTail4
+    4300000: CATRigHub001
+    4300002: CATRigLLeg1
+    4300004: CATRigLLeg2
+    4300006: CATRigLLeg3
+    4300008: CATRigLLeg4
+    4300010: CATRigRLeg1
+    4300012: CATRigRLeg2
+    4300014: CATRigRLeg3
+    4300016: CATRigRLeg4
+    4300018: CATRigSpine1
+    4300020: CATRigSpine2
+    4300022: CATRigSpine3
+    4300024: CATRigSpine4
+    4300026: CATRigHub002
+    4300028: CATRigLLeg1
+    4300030: CATRigLLeg2
+    4300032: CATRigLLeg3
+    4300034: CATRigLLeg4
+    4300036: CATRigRLeg1
+    4300038: CATRigRLeg2
+    4300040: CATRigRLeg3
+    4300042: CATRigRLeg4
+    4300044: CATRigSpine1
+    4300046: CATRigSpine2
+    4300048: CATRigSpine3
+    4300050: CATRigHub003
+    4300052: CATRigEYED
+    4300054: CATRigEYEG
+    4300056: CATRigTail1
+    4300058: CATRigTail2
+    4300060: CATRigTail3
+    4300062: CATRigTail4
+    4300064: Licorne
+    4300066: Licorne_LOD
+    9500000: //RootNode
+    13700000: Licorne
+    13700002: Licorne_LOD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

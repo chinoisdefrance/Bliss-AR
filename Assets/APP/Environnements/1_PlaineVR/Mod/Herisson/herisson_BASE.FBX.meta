@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 272b08b4353a3c646bddf78692071002
+timeCreated: 1472048241
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Carotte001
+    100002: CATRigHub001
+    100004: CATRigHub002
+    100006: CATRigHub003
+    100008: CATRigHub003Bone001
+    100010: CATRigHub003Bone002
+    100012: CATRigHub003OEILD
+    100014: CATRigHub003OEILG
+    100016: CATRigLArm1
+    100018: CATRigLArm2
+    100020: CATRigLArmIKTarget
+    100022: CATRigLLeg1
+    100024: CATRigLLeg2
+    100026: CATRigLLegPlatform
+    100028: CATRigLLegUpVectorNode
+    100030: CATRigRArm1
+    100032: CATRigRArm2
+    100034: CATRigRArmIKTarget
+    100036: CATRigRLeg1
+    100038: CATRigRLeg2
+    100040: CATRigRLegPlatform
+    100042: CATRigRLegUpVectorNode
+    100044: CATRigSpine1
+    100046: CATRigSpine1 1
+    100048: CATRigSpine2
+    100050: CATRigSpine2 1
+    100052: CATRigSpine3
+    100054: CATRigSpine4
+    100056: CATRigSpine5
+    100058: Character001
+    100060: herisson
+    100062: //RootNode
+    100064: Herisson_Oeil_D
+    100066: Herisson_Oeil_G
+    100068: herisson_LOD
+    400000: Carotte001
+    400002: CATRigHub001
+    400004: CATRigHub002
+    400006: CATRigHub003
+    400008: CATRigHub003Bone001
+    400010: CATRigHub003Bone002
+    400012: CATRigHub003OEILD
+    400014: CATRigHub003OEILG
+    400016: CATRigLArm1
+    400018: CATRigLArm2
+    400020: CATRigLArmIKTarget
+    400022: CATRigLLeg1
+    400024: CATRigLLeg2
+    400026: CATRigLLegPlatform
+    400028: CATRigLLegUpVectorNode
+    400030: CATRigRArm1
+    400032: CATRigRArm2
+    400034: CATRigRArmIKTarget
+    400036: CATRigRLeg1
+    400038: CATRigRLeg2
+    400040: CATRigRLegPlatform
+    400042: CATRigRLegUpVectorNode
+    400044: CATRigSpine1
+    400046: CATRigSpine1 1
+    400048: CATRigSpine2
+    400050: CATRigSpine2 1
+    400052: CATRigSpine3
+    400054: CATRigSpine4
+    400056: CATRigSpine5
+    400058: Character001
+    400060: herisson
+    400062: //RootNode
+    400064: Herisson_Oeil_D
+    400066: Herisson_Oeil_G
+    400068: herisson_LOD
+    2300000: Carotte001
+    2300002: CATRigHub001
+    2300004: CATRigHub002
+    2300006: CATRigHub003
+    2300008: CATRigHub003Bone001
+    2300010: CATRigHub003Bone002
+    2300012: CATRigHub003OEILD
+    2300014: CATRigHub003OEILG
+    2300016: CATRigLArm1
+    2300018: CATRigLArm2
+    2300020: CATRigLLeg1
+    2300022: CATRigLLeg2
+    2300024: CATRigRArm1
+    2300026: CATRigRArm2
+    2300028: CATRigRLeg1
+    2300030: CATRigRLeg2
+    2300032: CATRigSpine1
+    2300034: CATRigSpine1 1
+    2300036: CATRigSpine2
+    2300038: CATRigSpine2 1
+    2300040: CATRigSpine3
+    2300042: CATRigSpine4
+    2300044: CATRigSpine5
+    3300000: Carotte001
+    3300002: CATRigHub001
+    3300004: CATRigHub002
+    3300006: CATRigHub003
+    3300008: CATRigHub003Bone001
+    3300010: CATRigHub003Bone002
+    3300012: CATRigHub003OEILD
+    3300014: CATRigHub003OEILG
+    3300016: CATRigLArm1
+    3300018: CATRigLArm2
+    3300020: CATRigLLeg1
+    3300022: CATRigLLeg2
+    3300024: CATRigRArm1
+    3300026: CATRigRArm2
+    3300028: CATRigRLeg1
+    3300030: CATRigRLeg2
+    3300032: CATRigSpine1
+    3300034: CATRigSpine1 1
+    3300036: CATRigSpine2
+    3300038: CATRigSpine2 1
+    3300040: CATRigSpine3
+    3300042: CATRigSpine4
+    3300044: CATRigSpine5
+    4300000: herisson
+    4300002: Herisson_Oeil_D
+    4300004: Herisson_Oeil_G
+    4300006: CATRigHub001
+    4300008: CATRigLLeg1
+    4300010: CATRigLLeg2
+    4300012: CATRigRLeg1
+    4300014: CATRigRLeg2
+    4300016: CATRigSpine1
+    4300018: CATRigSpine2
+    4300020: CATRigSpine3
+    4300022: CATRigSpine4
+    4300024: CATRigSpine5
+    4300026: CATRigHub002
+    4300028: CATRigLArm1
+    4300030: CATRigLArm2
+    4300032: CATRigRArm1
+    4300034: CATRigRArm2
+    4300036: CATRigSpine1
+    4300038: CATRigSpine2
+    4300040: CATRigHub003
+    4300042: CATRigHub003Bone001
+    4300044: CATRigHub003Bone002
+    4300046: CATRigHub003OEILG
+    4300048: CATRigHub003OEILD
+    4300050: Carotte001
+    4300052: herisson_LOD
+    7400000: Carotte
+    9500000: //RootNode
+    13700000: herisson
+    13700002: Herisson_Oeil_D
+    13700004: Herisson_Oeil_G
+    13700006: herisson_LOD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Carotte
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Carotte001
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLegUpVectorNode
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLegUpVectorNode
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigLArm1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigLArm1/CATRigLArm2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigRArm1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigRArm1/CATRigRArm2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine1
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine1
+          1/CATRigSpine2 1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine1
+          1/CATRigSpine2 1/CATRigHub003
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine1
+          1/CATRigSpine2 1/CATRigHub003/CATRigHub003Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine1
+          1/CATRigSpine2 1/CATRigHub003/CATRigHub003Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine1
+          1/CATRigSpine2 1/CATRigHub003/CATRigHub003OEILD
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigSpine1
+          1/CATRigSpine2 1/CATRigHub003/CATRigHub003OEILG
+        weight: 1
+      - path: CATRigLArmIKTarget
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigRArmIKTarget
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: herisson
+        weight: 1
+      - path: herisson_LOD
+        weight: 1
+      - path: Herisson_Oeil_D
+        weight: 1
+      - path: Herisson_Oeil_G
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
