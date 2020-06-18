@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: af4b0e6bac2928b45a28fdd041d35a43
+timeCreated: 1515770858
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRigHub001
+    100002: CATRigHub001Bone001
+    100004: CATRigHub001Bone002
+    100006: CATRigHub002
+    100008: CATRigSpine1
+    100010: CATRigSpine2
+    100012: CATRigTail1
+    100014: CATRigTail2
+    100016: CATRigTail3
+    100018: CATRigTail4
+    100020: CATRigTail5
+    100022: Character001
+    100024: //RootNode
+    100026: hippocampus_LOD00
+    100028: hippocampus_LOD01
+    400000: CATRigHub001
+    400002: CATRigHub001Bone001
+    400004: CATRigHub001Bone002
+    400006: CATRigHub002
+    400008: CATRigSpine1
+    400010: CATRigSpine2
+    400012: CATRigTail1
+    400014: CATRigTail2
+    400016: CATRigTail3
+    400018: CATRigTail4
+    400020: CATRigTail5
+    400022: Character001
+    400024: //RootNode
+    400026: hippocampus_LOD00
+    400028: hippocampus_LOD01
+    2300000: CATRigHub001
+    2300002: CATRigHub001Bone001
+    2300004: CATRigHub001Bone002
+    2300006: CATRigHub002
+    2300008: CATRigSpine1
+    2300010: CATRigSpine2
+    2300012: CATRigTail1
+    2300014: CATRigTail2
+    2300016: CATRigTail3
+    2300018: CATRigTail4
+    2300020: CATRigTail5
+    3300000: CATRigHub001
+    3300002: CATRigHub001Bone001
+    3300004: CATRigHub001Bone002
+    3300006: CATRigHub002
+    3300008: CATRigSpine1
+    3300010: CATRigSpine2
+    3300012: CATRigTail1
+    3300014: CATRigTail2
+    3300016: CATRigTail3
+    3300018: CATRigTail4
+    3300020: CATRigTail5
+    4300000: hippocampus_LOD00
+    4300002: hippocampus_LOD01
+    4300004: CATRigHub001
+    4300006: CATRigTail1
+    4300008: CATRigTail2
+    4300010: CATRigTail3
+    4300012: CATRigTail4
+    4300014: CATRigTail5
+    4300016: CATRigSpine1
+    4300018: CATRigSpine2
+    4300020: CATRigHub002
+    4300022: CATRigHub001Bone001
+    4300024: CATRigHub001Bone002
+    7400000: hipposwim
+    9500000: //RootNode
+    13700000: hippocampus_LOD00
+    13700002: hippocampus_LOD01
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: hipposwim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigTail1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: hippocampus_LOD00
+        weight: 1
+      - path: hippocampus_LOD01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
