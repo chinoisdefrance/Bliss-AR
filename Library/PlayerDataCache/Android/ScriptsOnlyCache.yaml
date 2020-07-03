@@ -62,29 +62,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 580}
+      Script: {instanceID: 604}
     - Class: 114
-      Script: {instanceID: 14272}
+      Script: {instanceID: 11294}
     - Class: 114
-      Script: {instanceID: 14678}
+      Script: {instanceID: 11706}
     - Class: 114
-      Script: {instanceID: 14858}
+      Script: {instanceID: 11892}
     - Class: 114
-      Script: {instanceID: 15114}
+      Script: {instanceID: 12148}
     - Class: 114
-      Script: {instanceID: 15382}
+      Script: {instanceID: 12426}
     - Class: 114
-      Script: {instanceID: 15490}
+      Script: {instanceID: 12538}
     - Class: 114
-      Script: {instanceID: 15494}
+      Script: {instanceID: 12542}
     - Class: 114
-      Script: {instanceID: 15700}
+      Script: {instanceID: 12762}
     - Class: 114
-      Script: {instanceID: 15798}
+      Script: {instanceID: 12860}
     - Class: 114
-      Script: {instanceID: 16028}
+      Script: {instanceID: 13094}
     - Class: 114
-      Script: {instanceID: 18968}
+      Script: {instanceID: 14862}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 121
@@ -673,4 +673,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: H:/mes documents/Master 1 MTI3D/BLISS/AR/APK/Blissar.aab
+  playerPath: "C:/Users/M\xE9lanie Bridier/Documents/BLISS/AR/APK"
