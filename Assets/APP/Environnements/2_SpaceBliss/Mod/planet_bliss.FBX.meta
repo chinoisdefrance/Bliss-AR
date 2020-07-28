@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: be0c00c496bd8ba4787b5f1c9fc29d23
+timeCreated: 1491491774
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arbre012
+    100002: arbre013
+    100004: arbre014
+    100006: arbre015
+    100008: arbre016
+    100010: arbre017
+    100012: arbre018
+    100014: arbre019
+    100016: arbre020
+    100018: arbre04
+    100020: GeoSphere006
+    100022: //RootNode
+    100024: sapin01LODA001
+    100026: sapin01LODA002
+    100028: sapin01LODA003
+    100030: sapin01LODA004
+    100032: sapin01LODA005
+    100034: sapin01LODA006
+    100036: GeoSphere007
+    100038: sapin01LODA007
+    100040: sapin01LODA008
+    100042: sapin01LODA009
+    100044: sapin01LODA010
+    100046: sapin01LODA011
+    100048: Box014
+    100050: sapin01LODA012
+    100052: sapin01LODA013
+    100054: planet_bliss
+    100056: planet_bliss_atmos
+    400000: arbre012
+    400002: arbre013
+    400004: arbre014
+    400006: arbre015
+    400008: arbre016
+    400010: arbre017
+    400012: arbre018
+    400014: arbre019
+    400016: arbre020
+    400018: arbre04
+    400020: GeoSphere006
+    400022: //RootNode
+    400024: sapin01LODA001
+    400026: sapin01LODA002
+    400028: sapin01LODA003
+    400030: sapin01LODA004
+    400032: sapin01LODA005
+    400034: sapin01LODA006
+    400036: GeoSphere007
+    400038: sapin01LODA007
+    400040: sapin01LODA008
+    400042: sapin01LODA009
+    400044: sapin01LODA010
+    400046: sapin01LODA011
+    400048: Box014
+    400050: sapin01LODA012
+    400052: sapin01LODA013
+    400054: planet_bliss
+    400056: planet_bliss_atmos
+    2300000: arbre012
+    2300002: arbre013
+    2300004: arbre014
+    2300006: arbre015
+    2300008: arbre016
+    2300010: arbre017
+    2300012: arbre018
+    2300014: arbre019
+    2300016: arbre020
+    2300018: arbre04
+    2300020: GeoSphere006
+    2300022: sapin01LODA001
+    2300024: sapin01LODA002
+    2300026: sapin01LODA003
+    2300028: sapin01LODA004
+    2300030: sapin01LODA005
+    2300032: sapin01LODA006
+    2300034: GeoSphere007
+    2300036: sapin01LODA007
+    2300038: sapin01LODA008
+    2300040: sapin01LODA009
+    2300042: sapin01LODA010
+    2300044: sapin01LODA011
+    2300046: Box014
+    2300048: sapin01LODA012
+    2300050: sapin01LODA013
+    2300052: planet_bliss
+    2300054: planet_bliss_atmos
+    3300000: arbre012
+    3300002: arbre013
+    3300004: arbre014
+    3300006: arbre015
+    3300008: arbre016
+    3300010: arbre017
+    3300012: arbre018
+    3300014: arbre019
+    3300016: arbre020
+    3300018: arbre04
+    3300020: GeoSphere006
+    3300022: sapin01LODA001
+    3300024: sapin01LODA002
+    3300026: sapin01LODA003
+    3300028: sapin01LODA004
+    3300030: sapin01LODA005
+    3300032: sapin01LODA006
+    3300034: GeoSphere007
+    3300036: sapin01LODA007
+    3300038: sapin01LODA008
+    3300040: sapin01LODA009
+    3300042: sapin01LODA010
+    3300044: sapin01LODA011
+    3300046: Box014
+    3300048: sapin01LODA012
+    3300050: sapin01LODA013
+    3300052: planet_bliss
+    3300054: planet_bliss_atmos
+    4300000: arbre04
+    4300002: GeoSphere006
+    4300004: sapin01LODA001
+    4300006: sapin01LODA002
+    4300008: sapin01LODA003
+    4300010: sapin01LODA004
+    4300012: arbre012
+    4300014: arbre013
+    4300016: arbre014
+    4300018: arbre015
+    4300020: arbre016
+    4300022: arbre017
+    4300024: arbre018
+    4300026: arbre019
+    4300028: arbre020
+    4300030: sapin01LODA005
+    4300032: sapin01LODA006
+    4300034: GeoSphere007
+    4300036: sapin01LODA007
+    4300038: sapin01LODA008
+    4300040: sapin01LODA009
+    4300042: sapin01LODA010
+    4300044: sapin01LODA011
+    4300046: Box014
+    4300048: sapin01LODA012
+    4300050: sapin01LODA013
+    4300052: planet_bliss
+    4300054: planet_bliss_atmos
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

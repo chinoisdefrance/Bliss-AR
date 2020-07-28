@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 813fc151fb905d3449b9547e976d863a
+timeCreated: 1515513938
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: algue03b_01_LOD00
+    100004: algue03b_01_LOD01
+    100006: algue03b_02_LOD00
+    100008: algue03b_02_LOD01
+    100010: algue03b_03_LOD00
+    100012: algue03b_03_LOD01
+    100014: algue03b_04_LOD00
+    100016: algue03b_04_LOD01
+    100018: algue04b_01_LOD001
+    100020: algue04b_02_LOD00
+    100022: algue04b_03_LOD001
+    100024: algue04b_01_LOD00
+    100026: algue04b_03_LOD00
+    400000: //RootNode
+    400002: algue03b_01_LOD00
+    400004: algue03b_01_LOD01
+    400006: algue03b_02_LOD00
+    400008: algue03b_02_LOD01
+    400010: algue03b_03_LOD00
+    400012: algue03b_03_LOD01
+    400014: algue03b_04_LOD00
+    400016: algue03b_04_LOD01
+    400018: algue04b_01_LOD001
+    400020: algue04b_02_LOD00
+    400022: algue04b_03_LOD001
+    400024: algue04b_01_LOD00
+    400026: algue04b_03_LOD00
+    2300000: algue03b_01_LOD00
+    2300002: algue03b_01_LOD01
+    2300004: algue03b_02_LOD00
+    2300006: algue03b_02_LOD01
+    2300008: algue03b_03_LOD00
+    2300010: algue03b_03_LOD01
+    2300012: algue03b_04_LOD00
+    2300014: algue03b_04_LOD01
+    2300016: algue04b_01_LOD001
+    2300018: algue04b_02_LOD00
+    2300020: algue04b_03_LOD001
+    2300022: algue04b_01_LOD00
+    2300024: algue04b_03_LOD00
+    3300000: algue03b_01_LOD00
+    3300002: algue03b_01_LOD01
+    3300004: algue03b_02_LOD00
+    3300006: algue03b_02_LOD01
+    3300008: algue03b_03_LOD00
+    3300010: algue03b_03_LOD01
+    3300012: algue03b_04_LOD00
+    3300014: algue03b_04_LOD01
+    3300016: algue04b_01_LOD001
+    3300018: algue04b_02_LOD00
+    3300020: algue04b_03_LOD001
+    3300022: algue04b_01_LOD00
+    3300024: algue04b_03_LOD00
+    4300000: algue04b_01_LOD001
+    4300002: algue04b_02_LOD00
+    4300004: algue04b_03_LOD001
+    4300006: algue03b_01_LOD00
+    4300008: algue03b_02_LOD00
+    4300010: algue03b_03_LOD00
+    4300012: algue03b_04_LOD00
+    4300014: algue03b_01_LOD01
+    4300016: algue03b_02_LOD01
+    4300018: algue03b_03_LOD01
+    4300020: algue03b_04_LOD01
+    4300022: algue04b_01_LOD00
+    4300024: algue04b_03_LOD00
+    7400000: algue03b
+    9500000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: algue03b
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: algue03b_01_LOD00
+        weight: 1
+      - path: algue03b_01_LOD00/algue03b_02_LOD00
+        weight: 1
+      - path: algue03b_01_LOD00/algue03b_02_LOD00/algue03b_03_LOD00
+        weight: 1
+      - path: algue03b_01_LOD00/algue03b_02_LOD00/algue03b_03_LOD00/algue03b_04_LOD00
+        weight: 1
+      - path: algue03b_01_LOD01
+        weight: 1
+      - path: algue03b_01_LOD01/algue03b_02_LOD01
+        weight: 1
+      - path: algue03b_01_LOD01/algue03b_02_LOD01/algue03b_03_LOD01
+        weight: 1
+      - path: algue03b_01_LOD01/algue03b_02_LOD01/algue03b_03_LOD01/algue03b_04_LOD01
+        weight: 1
+      - path: algue04b_01_LOD00
+        weight: 1
+      - path: algue04b_01_LOD00/algue04b_02_LOD00
+        weight: 1
+      - path: algue04b_01_LOD00/algue04b_02_LOD00/algue04b_03_LOD00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
