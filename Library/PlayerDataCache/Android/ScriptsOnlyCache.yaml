@@ -16,10 +16,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -86,7 +84,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13754}
     - Class: 114
-      Script: {instanceID: 16652}
+      Script: {instanceID: 15000}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 121
@@ -723,4 +721,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: "C:/Users/M\xE9lanie Bridier/Documents/BLISS/AR/APK essais"
+  playerPath: H:/mes documents/Master 1 MTI3D/BLISS/AR/APK essais
